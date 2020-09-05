@@ -1,0 +1,17 @@
+---
+title: "My first notebook R"
+output: html_notebook
+---
+
+
+#operacion básica
+```{r}
+a<- c(1,2,3)
+b <- a * 2
+
+print(b)
+```
+```{r}
+plot(a,b)
+```
+
