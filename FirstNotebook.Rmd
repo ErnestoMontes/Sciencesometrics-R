@@ -6,7 +6,7 @@ output: html_notebook
 
 #operacion básica
 ```{r}
-a<- c(1,2,3)
+a<- c(1,2,3,4)
 b <- a * 2
 
 print(b)
